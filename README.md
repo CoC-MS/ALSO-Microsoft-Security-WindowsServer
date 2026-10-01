@@ -1,4 +1,4 @@
-# 🛡️ ALSO Microsoft Security MacOS Policy Templates
+# 🛡️ ALSO Microsoft Security Windows Server Policy Templates
 
 > A collection of Microsoft Security Windows Server policies to help organizations accelerate secure deployments to servers with Defender for Servers (Defender for Cloud), Defender Business for Servers and Endpoint for Servers. 
 
