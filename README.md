@@ -116,4 +116,8 @@ security.microsoft.com
     └── Endpoints
         └── Enforcement scope
 
-<img width="2061" height="1266" alt="image" src="https://github.com/user-attachments/assets/11937eab-bc8a-4643-a84c-6a93e017ce2d" />
+
+<img width="2061" height="1266" alt="image" src="https://github.com/user-attachments/assets/9ab81593-a3d6-44ad-bb27-528b2015f459" />
+
+
+
