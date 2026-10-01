@@ -134,3 +134,9 @@ Before importing **ALSO_WINDOWSSERVER_POLICIES**, ensure the following prerequis
 > Full documentation is available here:  
 > [Microsoft Defender Security Settings Management Documentation](https://learn.microsoft.com/en-us/intune/device-security/microsoft-defender/security-settings-management)
 
+-----
+
+
+## Issues?
+Open issue here: https://github.com/CoC-MS/ALSO-Microsoft-Security-WindowsServer/issues 
+
