@@ -149,11 +149,13 @@ To split it up in different OS groups, you need to add one more syntax like belo
 | Windows Server | Release | DeviceOSVersion |
 |---|---|---|
 | Windows Server 2012 R2 | 6.3.9600 | `6.3.9600` |
-| Windows Server 2016 | 1607 | `10.0.14393.9514` |
-| Windows Server 2019 | 1809 | `10.0.17763.9247` |
-| Windows Server 2022 | 21H2 | `10.0.20348.5631` |
-| Windows Server 2025 | 24H2 | `10.0.26100.33451` |
+| Windows Server 2016 | 1607 | `10.0.14393` |
+| Windows Server 2019 | 1809 | `10.0.17763` |
+| Windows Server 2022 | 21H2 | `10.0.20348` |
+| Windows Server 2025 | 24H2 | `10.0.26100` |
 
+> [!IMPORTANT]
+> **⚠️ IMPORTANT: Always double check DeviceOSVersion value in Entra ID for your servers.**
 
 -----
 ## How to import policy templates ALSO_WINDOWSSERVER_POLICIES 
