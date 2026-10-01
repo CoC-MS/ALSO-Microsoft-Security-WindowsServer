@@ -7,7 +7,7 @@
 ---
 
 
-## Supported and Unsupported Operating Systems
+## Supported and Unsupported Operating Systems and Scenarios
 
 ### ✅ Supported Operating Systems
 
