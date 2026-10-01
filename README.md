@@ -155,7 +155,7 @@ To split it up in different OS groups, you need to add one more syntax like belo
 | Windows Server 2025 | 24H2 | `10.0.26100` |
 
 > [!IMPORTANT]
-> **⚠️ IMPORTANT: Always double check DeviceOSVersion value in Entra ID for your servers.**
+> **⚠️ IMPORTANT: Always double check Version coloumn value in Entra ID for your servers.**
 
 -----
 ## How to import policy templates ALSO_WINDOWSSERVER_POLICIES 
