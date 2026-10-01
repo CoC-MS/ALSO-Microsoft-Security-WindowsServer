@@ -156,8 +156,8 @@ Before importing **ALSO_WINDOWSSERVER_POLICIES**, ensure the following prerequis
 
    <img width="273" height="202" alt="image" src="https://github.com/user-attachments/assets/9e8b32ce-93fe-4ef8-9c19-325d138add8c" />
 
-8. Download ALSO_MACOS_MDE_AUTO_ONBOARDING.zip from this repo https://github.com/CoC-MS/ALSO-Microsoft-Security-MacOS/blob/main/ALSO_MACOS_MDE_AUTO_ONBOARDING.zip, find and extract folder and choose ALSO_MACOS_MDE_AUTO_ONBOARDING folder.
-9. Choose Bulk-> Import and find extracted folder
+8. Download ALSO_WINDOWSSERVER_POLICIES from this repo
+9. Choose Bulk-> Import and find  folder
    
    <img width="391" height="411" alt="image" src="https://github.com/user-attachments/assets/e03b2025-83fd-45c0-9122-25f29fbb3e69" />
    
