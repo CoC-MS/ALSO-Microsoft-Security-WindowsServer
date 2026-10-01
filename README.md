@@ -2,7 +2,7 @@
 
 > A collection of Microsoft Security Windows Server policies to help organizations accelerate secure deployments to servers with Defender for Servers (Defender for Cloud), Defender Business for Servers and Endpoint for Servers with Intune. 
 
-**Works with Defender Business for Servers and up.**
+**Works with Microsoft 365 Business Premium + Defender Business for Servers and up.**
 
 > [!IMPORTANT]
 > **⚠️ IMPORTANT: This solution only allows you to manage Endpoint Security policies in Intune for Firewall, Antivirus, and Attack Surface Reduction. It does not fully replace all configurations that may have been deployed through Configuration Manager (ConfigMgr) or Group Policy. Always review existing configurations before assigning any of these policies to avoid duplicate settings, conflicts, or misconfigurations caused by overlapping policies.**
@@ -38,16 +38,23 @@
 > [Microsoft Defender Security Settings Management Documentation](https://learn.microsoft.com/en-us/intune/device-security/microsoft-defender/security-settings-management)
 
 > [!IMPORTANT]
-> **⚠️ IMPORTANT: Read this before importing and using any policies.**  
+> **⚠️ IMPORTANT: Read this before importing and using any policies.**
+
+| Resource | Description |
+|-----------|-------------|
+| 🛡️ **Security Information** | [View Security Policy](https://github.com/CoC-MS/ALSO-Microsoft-Security-WindowsServer?tab=security-ov-file) |
+| 📖 **Supported and Unsupported OS and Scenarios** | [View description](https://github.com/CoC-MS/ALSO-Microsoft-Security-WindowsServer?tab=readme-ov-file#supported-and-unsupported-operating-systems-and-scenarios) |
+| 📖 **Supported licenses** | [View description](https://github.com/CoC-MS/ALSO-Microsoft-Security-WindowsServer?tab=readme-ov-file#works-with-following-licenses) |
+| 📖 **Before importing ALSO_WINDOWSSERVER_POLICIES** | [View description](https://github.com/CoC-MS/ALSO-Microsoft-Security-WindowsServer?tab=readme-ov-file#before-importing-also_windowsserver_policies) |
 
 ## 📂 File Structure
 
 All files are organized into categories
 
 ```text
-/
-├── ALSO_WINDOWS_SERVER
-├── 
+/ALSO-Microsoft-Security-WindowsServer
+├── ALSO_WINDOWSSERVER_POLICIES/SettingsCatalog
+3 SettingsCatalog policies
 
 
 ```
