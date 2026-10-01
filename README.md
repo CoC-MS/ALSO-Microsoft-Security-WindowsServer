@@ -140,7 +140,7 @@ Before importing **ALSO_WINDOWSSERVER_POLICIES**, ensure the following prerequis
 
 <img width="1731" height="715" alt="image" src="https://github.com/user-attachments/assets/149c3592-76dc-4f7e-9577-79d9fc9fda2f" />
 
-To split it up in different OS groups, you need to add one more syntax like below in each policy you create. For example one for 2016, 2019 and so on. 
+To split it up in different OS groups, you need to add one more syntax with value for each policy you create. For example one for 2016, 2019 and so on. (Look at table below or in Entra ID -> Device -> Version) 
 
 <img width="1713" height="740" alt="image" src="https://github.com/user-attachments/assets/ce9f2ff7-b263-4ce3-b03d-b8d1d92c6d93" />
 
