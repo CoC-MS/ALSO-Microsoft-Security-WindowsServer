@@ -1,6 +1,6 @@
 # 🛡️ ALSO Microsoft Security Windows Server Policy Templates
 
-> A collection of Microsoft Security Windows Server policies to help organizations accelerate secure deployments to servers with Defender for Servers (Defender for Cloud), Defender Business for Servers and Endpoint for Servers. 
+> A collection of Microsoft Security Windows Server policies to help organizations accelerate secure deployments to servers with Defender for Servers (Defender for Cloud), Defender Business for Servers and Endpoint for Servers with Intune. 
 
 **Works with Defender Business for Servers and up.**
 
