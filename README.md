@@ -71,7 +71,7 @@ All policy templates follow the naming format below:
 ### Example
 
 ```text
-ALSO – LI – MDBS – Basic – v1.0– WindowsServer – AV- D
+ALSO – LI – MDBS – Basic – v1.0– WindowsServer – Endpoint Security - Antivirus - AV Configuration - D
 ```
 
 ---
