@@ -134,7 +134,7 @@ Before importing **ALSO_WINDOWSSERVER_POLICIES**, ensure the following prerequis
 > Full documentation is available here:  
 > [Microsoft Defender Security Settings Management Documentation](https://learn.microsoft.com/en-us/intune/device-security/microsoft-defender/security-settings-management)
 
-## Required step
+## Create dynamic security groups in Entra for assignments
 
 1. Create dynamic security group to catch your Windows Server devices
 
