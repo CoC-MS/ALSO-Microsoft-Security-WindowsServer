@@ -117,7 +117,7 @@ Before importing **ALSO_WINDOWSSERVER_POLICIES**, ensure the following prerequis
 <img width="1420" height="862" alt="image" src="https://github.com/user-attachments/assets/88068da1-754f-43d5-85ae-368c5e63b66b" />
 
 > [!IMPORTANT]
-> **⚠️ IMPORTANT: Always double check official documentation here: ** 
+> **⚠️IMPORTANT: Always double check official documentation here:** 
 
 > **Source:** Microsoft Learn  
 > Full documentation is available here:  
