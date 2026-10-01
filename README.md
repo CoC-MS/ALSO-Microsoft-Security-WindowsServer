@@ -62,3 +62,18 @@ ALSO – LI – MDBS – Basic – v1.0– WindowsServer – AV- D
 | **SubCategory** | Name of sub category, MDE, AV, Disk etc|
 | **Settings** | Short settings description |
 | **Assignment** | Assignment scope- device (D) or user (U)|
+
+
+## Before importing ALSO_WINDOWSSERVER_POLICIES
+
+1. Ensure that you have MDBS, MDES or DFS licenses
+2. Ensure that you meet minimum requirements for OS
+3. Ensure you are using Intune today
+4. Ensure that Defender for Endpoint instance and/or Defender for Cloud are active on your subscriptions
+
+Required role to have are Security Administrator 
+
+3. Navigate to security.microsoft.com -> Settings -> Endpoints -> Enforcement scope
+4. Toggle these settings ON and Save
+
+<img width="2061" height="1266" alt="image" src="https://github.com/user-attachments/assets/11937eab-bc8a-4643-a84c-6a93e017ce2d" />
