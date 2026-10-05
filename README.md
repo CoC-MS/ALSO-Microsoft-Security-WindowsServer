@@ -96,7 +96,7 @@ ALSO – LI – MDBS – Basic – v1.0– WindowsServer – Endpoint Security -
 | **MinimumLicense** | Minimum Microsoft license required to use the policy |
 | **BaselineLevel** | Baseline level of policy, Basic, Advanced |
 | **Version** | Policy version, v1.0, v1.1 etc|
-| **MacOS** | Operating system |
+| **WindowsServer** | Operating system |
 | **MainCategory** | Name of main category, Device Configuration, Device Compliance etc|
 | **SubCategory** | Name of sub category, MDE, AV, Disk etc|
 | **Settings** | Short settings description |
