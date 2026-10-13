@@ -4,7 +4,7 @@
 
 ## Required Configuration 
 
-1. Navigate to: security.microsoft.com -> Settings -> Endpoints -> Enforcement scope and toggle ON these settings for at least Windows Servers. Consider Domain Controllers. 
+1. Navigate to: security.microsoft.com -> Settings -> Endpoints -> Enforcement scope and toggle ON these settings for at least Windows Servers. Consider Domain Controllers, but be very careful with that. 
 
 <img width="2061" height="1266" alt="image" src="https://github.com/user-attachments/assets/37e9ab7f-253e-419c-8f6c-b6b8e0cac383" />
 
