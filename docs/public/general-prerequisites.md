@@ -6,7 +6,10 @@
 
 1. Navigate to: security.microsoft.com -> Settings -> Endpoints -> Enforcement scope and toggle ON these settings for at least Windows Servers. Consider Domain Controllers, but be very careful with that. 
 
+PS: You need to use Defender for Servers in Defender for Cloud to benefit from last setting. Check Azure portal that your Arc onboarded or Azure servers are visible there and that they are covered by Defender for Servers P1 or P2 licenses
+
 <img width="2061" height="1266" alt="image" src="https://github.com/user-attachments/assets/37e9ab7f-253e-419c-8f6c-b6b8e0cac383" />
+
 
 2. Navigate to intune.microsoft.com -> Endpoint security > Microsoft Defender for Endpoint, and set Allow Microsoft Defender for Endpoint to enforce Endpoint Security Configurations to On.
 
