@@ -10,7 +10,7 @@
 > [!IMPORTANT]
 > **⚠️ IMPORTANT: Read this before importing and using any policies.**
 
-### Works with following licenses
+### Windows Server Licensing Guide
 
 | Tag | Minimum Required License |
 |:---:|--------------------------|
