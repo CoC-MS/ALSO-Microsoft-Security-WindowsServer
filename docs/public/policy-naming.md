@@ -1,4 +1,6 @@
-# 📖 Naming Convention
+# Policy naming
+
+## 📖 Naming Convention
 
 All policy templates follow the naming format below:
 

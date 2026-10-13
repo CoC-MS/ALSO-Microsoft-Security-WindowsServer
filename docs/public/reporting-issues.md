@@ -1,3 +1,5 @@
-# Issues?
+# Reporting issues
+
+## Issues?
 
 Open issue here: https://github.com/CoC-MS/ALSO-Microsoft-Security-WindowsServer/issues 

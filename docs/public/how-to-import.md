@@ -1,4 +1,6 @@
-# How to import policy templates ALSO_WINDOWSSERVER_POLICIES 
+# How to import
+
+## How to import policy templates ALSO_WINDOWSSERVER_POLICIES 
 
 1. Download Micke M Intune Management Tool from here:  https://github.com/Micke-K/IntuneManagement
 2. Extract folder and Start with start.cmd in the folder (works without local administrator rights on Windows and MacOS)

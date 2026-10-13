@@ -19,18 +19,17 @@
 | **DFS** |  Any of those above + Microsoft Defender for Servers P1 and P2 in Defender for Cloud - works with servers in Azure or Arc onboarded servers (can't have mixed licensing with 2 others above |
 
 | Resource | Description |
-|-----------|-------------|
-| 🛡️ **Security Information** | [View Security Policy](SECURITY.MD) |
-| 📖 **Supported and Unsupported OS and Scenarios** | [View description](docs/public/supported-operating-systems-and-scenarios.md) |
-| 📖 **Supported licenses** | [View description](#works-with-following-licenses) |
-| 📖 **Before importing ALSO_WINDOWSSERVER_POLICIES** | [View description](docs/public/README.md) |
+| --- | --- |
+| 📚 **[Documentation index](docs/public/README.md)** | Browse all deployment documentation. |
+| 📖 **[Policy and configuration descriptions](docs/public/policy-collections.md)** | Review the preserved descriptions of every workload collection. |
+| 🪟 **[Windows Server prerequisites](docs/public/windows-server-prerequisites.md)** | Device types and OS versions supported |
+| 🚀 **[General prerequisites](docs/public/general-prerequisites.md)** | Review roles, licensing, prepare Intune and Defender. |
+| 🧩 **[Dependencies prerequisites](docs/public/dependencies-and-errors.md)** | Review required configuration, assignments, and Windows Server DeviceOSVersion values. |
+| 📖 **[Policy naming](docs/public/policy-naming.md)** | Understand licence tags and naming components. |
+| 📂 **[File structure](docs/public/file-structure.md)** | Find the package and policy files. |
+| 📥 **[How to import](docs/public/how-to-import.md)** | Follow the original illustrated import guidance. |
+| 🐛 **[Reporting issues](docs/public/reporting-issues.md)** | Open an issue. |
+| 🛡️ **[Security information](SECURITY.MD)** | Read the security and usage information. |
+| 📜 **[License](LICENSE)** | Read the repository licence. |
 
 ----
-
-## Before importing ALSO_WINDOWSSERVER_POLICIES
-
-- [Prerequisites](docs/public/general-prerequisites.md)
-- [Required Configuration](docs/public/windows-server-prerequisites.md)
-- [📖 Naming Convention](docs/public/policy-naming.md)
-- [How to import policy templates ALSO_WINDOWSSERVER_POLICIES](docs/public/how-to-import.md)
-- [Issues?](docs/public/reporting-issues.md)
