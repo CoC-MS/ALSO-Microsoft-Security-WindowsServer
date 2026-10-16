@@ -13,7 +13,7 @@
 <a id="getting-started"></a>
 ## 🚀 Getting started
 
-1. Review the [general prerequisites](docs/public/general-prerequisites.md), [Windows Server requirements](docs/public/windows-server-prerequisites.md), [dependencies and error handling](docs/public/dependencies-and-errors.md), and [security information](https://github.com/CoC-MS/ALSO-Microsoft-Security-WindowsServer/tree/main?tab=security-ov-file). Choose exactly one package using the licensing guide below: [`ALSO_WINDOWSSERVER_POLICIES`](ALSO_WINDOWSSERVER_POLICIES).
+1. Review the [general prerequisites](docs/public/general-prerequisites.md), [Windows Server requirements](docs/public/windows-server-prerequisites.md), [dependencies and error handling](docs/public/dependencies-and-errors.md), and [security information](https://github.com/CoC-MS/ALSO-Microsoft-Security-WindowsServer/tree/main?tab=security-ov-file). Download package and review licensing guide below: [`ALSO_WINDOWSSERVER_POLICIES`](ALSO_WINDOWSSERVER_POLICIES).
 2. Follow [How to import](docs/public/how-to-import.md) for extraction and import guidance.
 
 ### Quick navigation
