@@ -16,7 +16,7 @@
 1. Review the [general prerequisites](docs/public/general-prerequisites.md), [Windows Server requirements](docs/public/windows-server-prerequisites.md), [dependencies and error handling](docs/public/dependencies-and-errors.md), and [security information](https://github.com/CoC-MS/ALSO-Microsoft-Security-WindowsServer/tree/main?tab=security-ov-file).
 2. Download package [`ALSO_WINDOWSSERVER_POLICIES`](ALSO_WINDOWSSERVER_POLICIES) and review licensing guide below.
 3. Follow [How to import](docs/public/how-to-import.md) for extraction and import guidance.
-4. Assign reviewed policies to a pilot group, check policy deployment reports and user impact, then expand in stages.
+4. Assign reviewed policies to a pilot group, check policy deployment reports and server impact, then expand in stages.
 
 
 ### Quick navigation
