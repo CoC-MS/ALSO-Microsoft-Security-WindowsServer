@@ -10,21 +10,49 @@
 > [!IMPORTANT]
 > **⚠️ IMPORTANT: Read this before importing and using any policies.**
 
+<a id="getting-started"></a>
 ## 🚀 Getting started
 
-1. Review the [general prerequisites](docs/public/general-prerequisites.md), [Windows Server prerequisites](docs/public/windows-server-prerequisites.md), and [dependencies and error handling](docs/public/dependencies-and-errors.md). Read the [security information](https://github.com/CoC-MS/ALSO-Microsoft-Security-WindowsServer/security), then choose exactly one package that matches the licensing guide below. The only package currently included is **MDBS**:
-   - [MDBS Antivirus policy](ALSO_WINDOWSSERVER_POLICIES/ALSO%20%E2%80%93%20MI%20%E2%80%93%20MDBS%20%E2%80%93%20Basic%20%E2%80%93%20v1.0%20-%20Windows%20Server%20-%20Endpoint%20Security%20-%20Antivirus%20-%20AV%20Configuration%20-%20D.json)
-   - [MDBS Firewall policy](ALSO_WINDOWSSERVER_POLICIES/ALSO%20%E2%80%93%20MI%20%E2%80%93%20MDBS%20%E2%80%93%20Basic%20%E2%80%93%20v1.0%20-%20Windows%20Server%20-%20Endpoint%20Security%20-%20Firewall%20-%20Firewall%20Configuration%20-%20D.json)
-   - [MDBS ASR Audit Mode policy](ALSO_WINDOWSSERVER_POLICIES/ALSO%20%E2%80%93%20LI%20%E2%80%93%20MDBS%20%E2%80%93%20Basic%20%E2%80%93%20v1.0%20-%20Windows%20Server%20-%20Endpoint%20Security%20-%20ASR%20-%20%20Configuration%20-%20Audit%20Mode-%20D.json)
+1. Review the [general prerequisites](docs/public/general-prerequisites.md), [Windows Server requirements](docs/public/windows-server-prerequisites.md), [dependencies and error handling](docs/public/dependencies-and-errors.md), and [security information](https://github.com/CoC-MS/ALSO-Microsoft-Security-WindowsServer/tree/main?tab=security-ov-file). Choose exactly one package using the licensing guide below: [`ALSO_WINDOWSSERVER_POLICIES`](ALSO_WINDOWSSERVER_POLICIES).
 2. Follow [How to import](docs/public/how-to-import.md) for extraction and import guidance.
 
-### Windows Server Licensing Guide
+### Quick navigation
+
+| Section | What you will find |
+| --- | --- |
+| [Getting started](#getting-started) | Prerequisites, package selection, and import. |
+| [Windows Server Licensing Guide](#windows-server-licensing-guide) | License compatibility and limitations. |
+| [Windows Server packages](#windows-server-packages) | Package contents and license mapping. |
+| [Documentation](#documentation) | Links to supporting guides and the repository license. |
+
+---
+
+<a id="windows-server-licensing-guide"></a>
+## Windows Server Licensing Guide
 
 | Tag | Minimum Required License |
 |:---:|--------------------------|
 | **MDBS** | Microsoft 365 Business Premium + Microsoft Defender for Business Server -on-premises servers only (can't have mixed licensing with 2 others below |
 | **MDES** | Microsoft 365 E3 or Microsoft 365 E5 or E7 + Microsoft Defender for Endpoint Server - on-premises servers only (can't have mixed licensing with 2 others above and below |
 | **DFS** |  Any of those above + Microsoft Defender for Servers P1 and P2 in Defender for Cloud - works with servers in Azure or Arc onboarded servers (can't have mixed licensing with 2 others above |
+
+---
+
+<a id="windows-server-packages"></a>
+## 📦 Windows Server packages
+
+| Package | JSON files | License mapping |
+| --- | ---: | --- |
+| [`ALSO_WINDOWSSERVER_POLICIES`](ALSO_WINDOWSSERVER_POLICIES) | 3 | MDBS — see the licensing guide above. |
+
+- [MDBS Antivirus policy](ALSO_WINDOWSSERVER_POLICIES/ALSO%20%E2%80%93%20MI%20%E2%80%93%20MDBS%20%E2%80%93%20Basic%20%E2%80%93%20v1.0%20-%20Windows%20Server%20-%20Endpoint%20Security%20-%20Antivirus%20-%20AV%20Configuration%20-%20D.json)
+- [MDBS Firewall policy](ALSO_WINDOWSSERVER_POLICIES/ALSO%20%E2%80%93%20MI%20%E2%80%93%20MDBS%20%E2%80%93%20Basic%20%E2%80%93%20v1.0%20-%20Windows%20Server%20-%20Endpoint%20Security%20-%20Firewall%20-%20Firewall%20Configuration%20-%20D.json)
+- [MDBS ASR Audit Mode policy](ALSO_WINDOWSSERVER_POLICIES/ALSO%20%E2%80%93%20LI%20%E2%80%93%20MDBS%20%E2%80%93%20Basic%20%E2%80%93%20v1.0%20-%20Windows%20Server%20-%20Endpoint%20Security%20-%20ASR%20-%20%20Configuration%20-%20Audit%20Mode-%20D.json)
+
+---
+
+<a id="documentation"></a>
+## 📚 Documentation
 
 | Resource | Description |
 | --- | --- |
