@@ -53,7 +53,7 @@ Learn more:
 <a id="windows-server-packages"></a>
 ## 📦 Windows Server packages
 
-| Package | JSON files | License mapping |
+| Package | JSON files |
 | --- | ---: | --- |
 | [`ALSO_WINDOWSSERVER_POLICIES`](ALSO_WINDOWSSERVER_POLICIES) | 3 |
 
