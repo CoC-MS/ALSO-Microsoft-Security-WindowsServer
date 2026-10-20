@@ -54,7 +54,7 @@ Learn more:
 ## 📦 Windows Server packages
 
 | Package | JSON files |
-| --- | ---: | --- |
+| --- | ---|
 | [`ALSO_WINDOWSSERVER_POLICIES`](ALSO_WINDOWSSERVER_POLICIES) | 3 |
 
 - [MDBS Antivirus policy](ALSO_WINDOWSSERVER_POLICIES/ALSO%20%E2%80%93%20MI%20%E2%80%93%20MDBS%20%E2%80%93%20Basic%20%E2%80%93%20v1.0%20-%20Windows%20Server%20-%20Endpoint%20Security%20-%20Antivirus%20-%20AV%20Configuration%20-%20D.json)
