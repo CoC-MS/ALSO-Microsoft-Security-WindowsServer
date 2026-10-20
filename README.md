@@ -42,9 +42,11 @@
 
 Learn more: 
 
-Microsoft Defender for Business for Servers: https://www.microsoft.com/licensing/terms/productoffering/MicrosoftDefenderforBusinessservers/MCA#ServiceSpecificTerms
-Microsoft Defender for  Endpoint for Servers: https://www.microsoft.com/licensing/terms/productoffering/MicrosoftDefenderforEndpointforservers/MCA
-Microsoft Defender for Servers P1 and P1 in Defender for Cloud: https://www.microsoft.com/licensing/faqs/48
+| Solution | Learn More |
+|----------|------------|
+| Microsoft Defender for Business Servers | [Learn More](https://www.microsoft.com/licensing/terms/productoffering/MicrosoftDefenderforBusinessservers/MCA#ServiceSpecificTerms) |
+| Microsoft Defender for Endpoint for Servers | [Learn More](https://www.microsoft.com/licensing/terms/productoffering/MicrosoftDefenderforEndpointforservers/MCA) |
+| Microsoft Defender for Servers (P1 & P2) | [Learn More](https://www.microsoft.com/licensing/faqs/48) |
 
 ---
 
