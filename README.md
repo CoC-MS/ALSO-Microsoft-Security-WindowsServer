@@ -39,6 +39,13 @@
 | **MDES** | Microsoft 365 E3 or Microsoft 365 E5 or E7 + Microsoft Defender for Endpoint Server - on-premises servers only (can't have mixed licensing with 2 others above and below |
 | **DFS** |  Any of those above + Microsoft Defender for Servers P1 and P2 in Defender for Cloud - works with servers in Azure or Arc onboarded servers (can't have mixed licensing with 2 others above |
 
+
+Learn more: 
+
+Microsoft Defender for Business for Servers: https://www.microsoft.com/licensing/terms/productoffering/MicrosoftDefenderforBusinessservers/MCA#ServiceSpecificTerms
+Microsoft Defender for  Endpoint for Servers: https://www.microsoft.com/licensing/terms/productoffering/MicrosoftDefenderforEndpointforservers/MCA
+Microsoft Defender for Servers P1 and P1 in Defender for Cloud: https://www.microsoft.com/licensing/faqs/48
+
 ---
 
 <a id="windows-server-packages"></a>
