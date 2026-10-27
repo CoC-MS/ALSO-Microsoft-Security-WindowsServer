@@ -63,9 +63,9 @@ Learn more:
 | --- | ---|
 | [`ALSO_WINDOWSSERVER_POLICIES`](ALSO_WINDOWSSERVER_POLICIES) | 3 |
 
-- [MDBS Antivirus policy](ALSO_WINDOWSSERVER_POLICIES/ALSO%20%E2%80%93%20MI%20%E2%80%93%20MDBS%20%E2%80%93%20Basic%20%E2%80%93%20v1.0%20-%20Windows%20Server%20-%20Endpoint%20Security%20-%20Antivirus%20-%20AV%20Configuration%20-%20D.json)
-- [MDBS Firewall policy](ALSO_WINDOWSSERVER_POLICIES/ALSO%20%E2%80%93%20MI%20%E2%80%93%20MDBS%20%E2%80%93%20Basic%20%E2%80%93%20v1.0%20-%20Windows%20Server%20-%20Endpoint%20Security%20-%20Firewall%20-%20Firewall%20Configuration%20-%20D.json)
-- [MDBS ASR Audit Mode policy](ALSO_WINDOWSSERVER_POLICIES/ALSO%20%E2%80%93%20LI%20%E2%80%93%20MDBS%20%E2%80%93%20Basic%20%E2%80%93%20v1.0%20-%20Windows%20Server%20-%20Endpoint%20Security%20-%20ASR%20-%20%20Configuration%20-%20Audit%20Mode-%20D.json)
+- [MDBS Antivirus policy](ALSO_WINDOWSSERVER_POLICIES/SettingsCatalog/ALSO%20%E2%80%93%20MI%20%E2%80%93%20MDBS%20%E2%80%93%20Basic%20%E2%80%93%20v1.0%20-%20Windows%20Server%20-%20Endpoint%20Security%20-%20Antivirus%20-%20AV%20Configuration%20-%20D.json)
+- [MDBS Firewall policy](ALSO_WINDOWSSERVER_POLICIES/SettingsCatalog/ALSO%20%E2%80%93%20MI%20%E2%80%93%20MDBS%20%E2%80%93%20Basic%20%E2%80%93%20v1.0%20-%20Windows%20Server%20-%20Endpoint%20Security%20-%20Firewall%20-%20Firewall%20Configuration%20-%20D.json)
+- [MDBS Advanced ASR Block and Audit Mode policy](ALSO_WINDOWSSERVER_POLICIES/SettingsCatalog/ALSO%20%E2%80%93%20HI%20%E2%80%93%20MDBS%20%E2%80%93%20Adv%20%E2%80%93%20v1.0%20-%20Windows%20Server%20-%20Endpoint%20Security%20-%20ASR%20-%20%20Configuration%20-%20Block%20and%20Audit%20Mode-%20D.json)
 
 ---
 
